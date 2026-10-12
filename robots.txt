@@ -1,3 +1,4 @@
+
 User-agent: *
 Allow: /
-Sitemap: https://northstar-digital-demo.netlify.app/sitemap.xml
+Sitemap: https://bhartijangra.github.io/northstar-digital-studio-new/sitemap.xml
