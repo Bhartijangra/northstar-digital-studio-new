@@ -1,19 +1,21 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://northstar-digital-demo.netlify.app/index.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/seo-services.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/digital-marketing.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/local-seo.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/case-studies.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/on-page-seo-checklist.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/keyword-research-guide.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/technical-seo-explained.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/local-seo-practical-guide.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/seo-vs-google-ads.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/seo-beginners-guide.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/blog.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/about.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/contact.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/privacy-policy.html</loc></url>
-<url><loc>https://northstar-digital-demo.netlify.app/seo-lab.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/seo-services.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/digital-marketing.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/local-seo.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/case-studies.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/on-page-seo-checklist.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/keyword-research-guide.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/technical-seo-explained.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/local-seo-practical-guide.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/seo-vs-google-ads.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/seo-beginners-guide.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/blog.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/about.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/contact.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/privacy-policy.html</loc></url>
+  <url><loc>https://bhartijangra.github.io/northstar-digital-studio-new/seo-lab.html</loc></url>
 </urlset>
+```
